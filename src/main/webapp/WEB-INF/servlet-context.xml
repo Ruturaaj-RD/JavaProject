@@ -1,0 +1,4 @@
+<servlet-mapping>
+    <servlet-name>dispatcher</servlet-name>
+    <url-pattern>/views/*.jsp</url-pattern>
+</servlet-mapping>
